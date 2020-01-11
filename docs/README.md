@@ -16,9 +16,10 @@ Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 
 # Initiatives
 
-- [ShoppreParcels.com](https://www.shoppreparcels.com)
-- [ShoppreCouriers.com](https://www.shopprecouriers.com)
-- [ShopprePay.in](https://www.shopprepay.in)
+- [Shoppre Parcel Forwarding Solution](https://www.shoppreparcels.com)
+- [Shoppre Shipping, Courier & Logistic Solutions](https://www.shopprecouriers.com)
+- [Shoppre Payment Solutions](https://www.shopprepay.in)
+- [Shoppre Web Services](https://expeditions.shoppre.com/initiatives/shoppre-web-services.html)
 
 ## Goals:
 
