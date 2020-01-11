@@ -10,11 +10,13 @@ Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 
 # Goals:
 
-- Building community
+- **Building community inside India**
   - 1 million Indian sellers get reach global with ShoppRe
-  - 100k sellers outside India to source their goods from any part of India.
   - Indian Shipping Professional, Shops, Companies & Knowledge
-- Reach 30 Million NRIs
-- 
+  - Building ecosystem for exports(Payments, Customs).
+- **Building community Outside India**
+  - 100k sellers outside India to source their goods from any part of India.
+  - Reach 30 Million NRIs
+  - Building ecosystem for imports by enabling marketing, technology to the businesses sourcing from India to promote Indian Goods
 
 
