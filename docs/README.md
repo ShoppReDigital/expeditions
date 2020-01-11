@@ -14,6 +14,11 @@ Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 - Punith H S
 - Sharath Jayaram
 
+# Initiatives
+
+- [ShoppreParcels.com](https://www.shoppreparcels.com)
+- [ShoppreCouriers.com](https://www.shopprecouriers.com)
+- [ShopprePay.in](https://www.shopprepay.in)
 
 ## Goals:
 
