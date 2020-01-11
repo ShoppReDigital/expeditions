@@ -8,6 +8,13 @@ Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 
 **Mission**: **[ShoppRe](https://www.shoppre.com)**'s aim is to organize India's e-commerce information and make it globally accessible and useful
 
+**Executive Leadership**
+
+- [Nikkitha Shanker](https://in.linkedin.com/in/nikkitha-shanker)
+- Punith H S
+- Sharath Jayaram
+
+
 ## Goals:
 
 - **Building community inside India**
