@@ -1,1 +1,3 @@
-# Hello From Vuepress on Now 2.0!
+# ShoppRe Expeditions
+
+Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
