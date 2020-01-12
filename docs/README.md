@@ -7,9 +7,16 @@
 
 Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 
+**Strategic Intent**: 
+
+
 **Vision**: To provide access to the Indian e-commerce worldwide in one click.
 
 **Mission**: **[ShoppRe](https://www.shoppre.com)**'s aim is to organize India's e-commerce information and make it globally accessible and useful
+
+**Business Definition**:
+
+**Business Model**:
 
 **Executive Leadership**
 
@@ -19,6 +26,7 @@ Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 - Sharath Jayaram, Sales
 - Vikas Kumar, Marketing
 - Bibhas Ghoshal, Payments
+
 
 # Initiatives
 
