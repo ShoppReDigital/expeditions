@@ -18,6 +18,7 @@ Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 - Punith H S, Technology
 - Sharath Jayaram, Sales
 - Vikas Kumar, Marketing
+- Bibhas Ghoshal, Payments
 
 # Initiatives
 
