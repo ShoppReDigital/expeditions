@@ -14,6 +14,9 @@ not have access to E-commerce companies in India as:
  - Most of the websites do not provide international shipping. Those few websites which provide international shipment do it an exorbitant rate. 
  - Many websites currently do not allow the usage of International Credit/Debit cards.
  
+ ![Parcel_forwarding_customer_problems](images/shoppre-parcel-forwarding-customer-pain-points.png)
+Format: ![Alt Text](url)
+ 
  ## What is the Solution?
 
 ShoppRe Parcel acts like a bridge, making Indian Products available to the people outside India at an optimized rate.
