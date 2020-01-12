@@ -1,5 +1,8 @@
 # [Welcome](https://expeditions.shoppre.com)
 
+[Improve this page](https://github.com/shoppre/expeditions/edit/master/docs/README.md)
+
+
 ### Know more about ShoppRe
 
 Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
