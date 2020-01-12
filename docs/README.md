@@ -10,13 +10,15 @@ Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 
 **Executive Leadership**
 
-- [Nikkitha Shanker](https://in.linkedin.com/in/nikkitha-shanker)
-- Punith H S
-- Sharath Jayaram
+- [Nikkitha Shanker](https://in.linkedin.com/in/nikkitha-shanker), CEO
+- Ajay Raj, Operations
+- Punith H S, Technology
+- Sharath Jayaram, Sales
+- Vikas Kumar, Marketing
 
 # Initiatives
 
-- [Shoppre Parcel Forwarding Solution](https://www.shoppreparcels.com)
+- [Shoppre Parcel Forwarding Solution](https://expeditions.shoppre.com/initiatives/shoppre-parcel-forwarding-solution.html)
 - [Shoppre Shipping, Courier & Logistic Solutions](https://www.shopprecouriers.com)
 - [Shoppre Payment Solutions](https://www.shopprepay.in)
 - [Shoppre Web Services](https://expeditions.shoppre.com/initiatives/shoppre-web-services.html)
