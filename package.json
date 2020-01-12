@@ -4,10 +4,16 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "dev": "vuepress dev docs --port $PORT",
-    "build": "vuepress build docs"
+    "dev": "vuepress dev docs --port $PORT -d public",
+    "build": "vuepress build docs -d public",
+    "postbuild": "vuepress-sitemap -H https://expeditions.shoppre.com -d public"
   },
   "devDependencies": {
-    "vuepress": "^0.14.4"
+    "vuepress": "^1.2.0",
+    "vuepress-plugin-social-share": "^0.1.2",
+    "vuepress-plugin-sitemap": "^2.3.1",
+    "chalk": "^3.0.0",
+    "commander": "^4.0.1",
+    "esm": "^3.2.25"
   }
 }

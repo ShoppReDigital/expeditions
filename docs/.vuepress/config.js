@@ -7,4 +7,12 @@ module.exports = {
     ],
   },
   dest: 'public',
+  plugins: [
+    'social-share',
+    {
+      'sitemap': {
+        hostname: 'https://www.parkenconsulting.com'
+      },
+    }
+  ],
 };
