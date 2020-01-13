@@ -30,7 +30,7 @@
 ## Business Use Cases
 
 ### Companies Using
- - [ShoppReParcels.com](https://www.shoppreparcel.com)
+ - [ShoppReParcels.com](https://www.shoppreparcels.com)
  
  
 
