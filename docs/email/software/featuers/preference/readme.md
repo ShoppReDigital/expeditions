@@ -2,7 +2,8 @@
 
 writing article in the context of Engage Platform
 
-
+- Unsubscribe via AWS SES Notifications
+- Unsubscribe via Link
 
 ## Test Cases - Fair
 
