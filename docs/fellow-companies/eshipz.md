@@ -1,6 +1,6 @@
 # [EShipZ](https://expeditions.shoppre.com/fellow-companies/eshipz.html)
 
-[Improve this page](https://github.com/shoppre/expeditions/edit/master/docs/fellow-companies/eshipz.md) | [Website](https://www.eshipz.com/) | [Try Now](https://app.eshipz.com/login)
+[Improve this page](https://github.com/shoppre/expeditions/edit/master/docs/fellow-companies/eshipz.md) | [Website](https://www.eshipz.com/) | [Try Now](https://app.eshipz.com/login) | [Facebook](https://www.facebook.com/eShipz/)
 
 Started in April 2019 with a experience of [Ecourierz.com](https://ecourierz.com)
 
