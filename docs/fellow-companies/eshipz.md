@@ -2,7 +2,7 @@
 
 [Improve this page](https://github.com/shoppre/expeditions/edit/master/docs/fellow-companies/eshipz.md) | [Website](https://www.eshipz.com/) | [Try Now](https://app.eshipz.com/login) | [Facebook](https://www.facebook.com/eShipz/)
 
-Started in April 2019 with a experience of [Ecourierz.com](https://ecourierz.com)
+Started in April 2019 <sup>[[1](1)]</sup> with a experience of [Ecourierz.com](https://ecourierz.com)
 
 ## How they are solving
 
@@ -48,4 +48,4 @@ as on 14th Jan 2020, check updated pricing in the eshipz website
 
 ## References
 
-1. [https://yourstory.com/2020/01/axilor-ventures-winter-2019-cohort-startups](https://yourstory.com/2020/01/axilor-ventures-winter-2019-cohort-startups)
+[1]: [https://yourstory.com/2020/01/axilor-ventures-winter-2019-cohort-startups](https://yourstory.com/2020/01/axilor-ventures-winter-2019-cohort-startups)
