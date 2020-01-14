@@ -1,8 +1,8 @@
 # [EShipZ](https://expeditions.shoppre.com/fellow-companies/eshipz.html)
 
-[Improve this page](https://github.com/shoppre/expeditions/edit/master/docs/fellow-companies/eshipz.md) | [Website](https://www.eshipz.com/)
+[Improve this page](https://github.com/shoppre/expeditions/edit/master/docs/fellow-companies/eshipz.md) | [Website](https://www.eshipz.com/) | [Try Now](https://app.eshipz.com/login)
 
-Started in April 2019
+Started in April 2019 with a experience of [Ecourierz.com](https://ecourierz.com)
 
 ## How they are solving
 
@@ -14,6 +14,28 @@ Started in April 2019
 
 ## Sellers using Eshipz referred by ShoppRe
 - x
+
+## Seller Channel Integrations
+
+- Amazon
+- Magento
+- Etsy
+- Opencart
+- Prestashop
+- Shopify
+- Woo Commerce
+
+## Shipping Integrations
+
+- DHL India
+- FEDEX
+- PEIPL
+- Aramex
+- BlueDart
+- Delhivery
+- XpressBees
+- Delhivery Surface
+- E com Express
 
 ## Pricing
 
