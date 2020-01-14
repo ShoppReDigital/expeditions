@@ -14,6 +14,11 @@ Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 
 **Mission**: **[ShoppRe](https://www.shoppre.com)**'s aim is to organize India's e-commerce information and make it globally accessible and useful
 
+# Fellow Companies working for solving same problem
+
+- [Ecourierz](https://expeditions.shoppre.com/fellow-companies/ecourierz.html)
+- [Eshipz](https://expeditions.shoppre.com/fellow-companies/eshipz.html)
+
 **Business Definition**:
 
 **Business Model**:
