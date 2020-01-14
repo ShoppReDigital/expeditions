@@ -14,10 +14,6 @@ Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 
 **Mission**: **[ShoppRe](https://www.shoppre.com)**'s aim is to organize India's e-commerce information and make it globally accessible and useful
 
-## Fellow Companies working for solving same problem
-
-- [Eshipz](https://expeditions.shoppre.com/fellow-companies/eshipz.html)
-
 **Business Definition**:
 
 **Business Model**:
@@ -61,4 +57,10 @@ Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 ### Outside India
 
 - 200+ sellers outside India every month source their goods via ShoppRe.
+
+## Related Information
+
+### Fellow Companies working for solving same problem
+
+- [Eshipz](https://expeditions.shoppre.com/fellow-companies/eshipz.html)
 
