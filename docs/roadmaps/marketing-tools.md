@@ -22,6 +22,11 @@
 - v0.1 - Basics - Feb 2020
 - v0.2 - Facebook - Not Decided
 
+#### Affiliate
+- v0.1 - Basics for Employees - Feb 2020 - 5 employees should bring orders
+- v0.2 - Share feature - Mar 2020
+- v0.3 - Bloggers - Feb 2020 - ex: berush.com
+
 ## Engage
 
 #### Email
