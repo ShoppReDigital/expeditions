@@ -2,7 +2,7 @@
 
 [Improve this page](https://github.com/shoppre/expeditions/edit/master/docs/fellow-companies/eshipz.md) | [Website](https://www.eshipz.com/) | [Try Now](https://app.eshipz.com/login) | [Facebook](https://www.facebook.com/eShipz/)
 
-Started in April 2019 <sup>[[1](#1)]</sup> with a experience of [Ecourierz.com](https://ecourierz.com)
+Started in April 2019 <sup>[[1](#references)]</sup> with a experience of [Ecourierz.com](https://ecourierz.com)
 
 ## How they are solving
 
