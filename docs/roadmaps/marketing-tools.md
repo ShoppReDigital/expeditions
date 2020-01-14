@@ -24,12 +24,12 @@
 
 ## Engage
 
-### Email
+#### Email
 
 - v0.1 - Basics - Jun 2019
 - v0.2 - Preferences - Jan 2019
 
-### Chrome Notifications
+#### Chrome Notifications
 
 - v0.1 - Transactional - Jun 2019
 - v0.2 - Marketing - Not Decided
