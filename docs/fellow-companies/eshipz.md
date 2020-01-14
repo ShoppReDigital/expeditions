@@ -12,7 +12,7 @@ Started in April 2019 with a experience of [Ecourierz.com](https://ecourierz.com
 
 - Eshipz recommened to sellers working with ShoppRe.
 
-## Sellers using Eshipz
+## Sellers & Companies using Eshipz
 referred and guided by ShoppRe
 
 - [ShoppreCouriers.com](https://shopprecouriers.com)
