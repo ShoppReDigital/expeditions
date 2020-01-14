@@ -12,6 +12,10 @@
 
 ## Campaign
 
+#### Master Campaigner 
+
+- v0.1 - Reports  - Jan 2020
+
 #### SEO 
 
 - v0.1 - Basics  - Jan 2020
