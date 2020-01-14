@@ -1,4 +1,6 @@
-# Marketing Tools
+# [Marketing Tools](https://expeditions.shoppre.com/roadmaps/marketing-tools.html) - Roadmap
+
+[Improve this page](https://github.com/shoppre/expeditions/edit/master/docs/roadmaps/marketing-tools.md)
 
 ## Identity
 
@@ -18,7 +20,7 @@
 
 #### Master Campaigner 
 
-- 🟠 v0.1 - Reports  - Jan 2020
+- 🟠 [v0.1 - Reports](https://www.parkenconsulting.com/marketing.html)  - Jan 2020
 
 #### SEO 
 
