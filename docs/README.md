@@ -16,7 +16,6 @@ Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 
 ## Fellow Companies working for solving same problem
 
-- [Ecourierz](https://expeditions.shoppre.com/fellow-companies/ecourierz.html)
 - [Eshipz](https://expeditions.shoppre.com/fellow-companies/eshipz.html)
 
 **Business Definition**:
