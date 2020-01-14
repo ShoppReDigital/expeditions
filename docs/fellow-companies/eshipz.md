@@ -8,6 +8,13 @@ Started in April 2019
 
 - Strong technology for e commerce integrations
 
+## How ShoppRe works with Eshipz
+
+- Eshipz recommened to sellers working with ShoppRe.
+
+## Sellers using Eshipz referred by ShoppRe
+- x
+
 ## Pricing
 
 as on 14th Jan 2020, check updated pricing in the eshipz website
