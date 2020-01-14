@@ -45,3 +45,7 @@ referred and guided by ShoppRe
 as on 14th Jan 2020, check updated pricing in the eshipz website
 
 ![Eshipz](https://github.com/shoppre/expeditions/raw/master/docs/fellow-companies/eshipz-pricing.jpeg)
+
+## References
+
+1. [https://yourstory.com/2020/01/axilor-ventures-winter-2019-cohort-startups](https://yourstory.com/2020/01/axilor-ventures-winter-2019-cohort-startups)
