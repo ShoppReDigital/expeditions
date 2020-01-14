@@ -48,4 +48,4 @@ as on 14th Jan 2020, check updated pricing in the eshipz website
 
 ## References
 
-[1]: https://yourstory.com/2020/01/axilor-ventures-winter-2019-cohort-startups "Your story"
+1. [Meet 14 startups selected by Axilor’s accelerator programme for its winter 2019 cohort](https://yourstory.com/2020/01/axilor-ventures-winter-2019-cohort-startups)
