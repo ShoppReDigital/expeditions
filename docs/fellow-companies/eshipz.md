@@ -12,8 +12,11 @@ Started in April 2019 with a experience of [Ecourierz.com](https://ecourierz.com
 
 - Eshipz recommened to sellers working with ShoppRe.
 
-## Sellers using Eshipz referred by ShoppRe
-- x
+## Sellers using Eshipz
+referred and guided by ShoppRe
+
+- [ShoppreCouriers.com](https://shopprecouriers.com)
+- [ShoppreParcels.com](https://shoppreparcels.com)
 
 ## Seller Channel Integrations
 
