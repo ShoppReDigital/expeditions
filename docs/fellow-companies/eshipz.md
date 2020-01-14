@@ -48,4 +48,4 @@ as on 14th Jan 2020, check updated pricing in the eshipz website
 
 ## References
 
-[1]: [https://yourstory.com/2020/01/axilor-ventures-winter-2019-cohort-startups](https://yourstory.com/2020/01/axilor-ventures-winter-2019-cohort-startups)
+[1]: https://yourstory.com/2020/01/axilor-ventures-winter-2019-cohort-startups "Your story"
