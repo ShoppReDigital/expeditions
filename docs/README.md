@@ -64,3 +64,8 @@ Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 
 - [Eshipz](https://expeditions.shoppre.com/fellow-companies/eshipz.html)
 
+### Similar Sites:
+
+- [Database Solutions](https://database.shoppre.com/)
+- [Identity Solutions](https://identity.shoppre.com)
+
