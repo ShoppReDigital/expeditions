@@ -1,6 +1,6 @@
 # ShoppRe Web Services
 
-[Improve this page](https://github.com/shoppre/expeditions/edit/master/docs/initiatives/shoppre-web-services.md)
+[Improve this page](https://github.com/shoppre/expeditions/edit/master/docs/initiatives/shoppre-web-services.md) | [Developers Portal](https://developers.shoppre.com)
 
 
 - Developers can publish their apps to our BusinessStore and Earn money for paid apps
