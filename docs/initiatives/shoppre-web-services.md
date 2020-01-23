@@ -43,3 +43,10 @@
 - Quality Guidelines
 - Distributes in ShoppRe Business App Store
 
+## Platforms
+
+- Web Application for *Chrome*, Safari & Internet Exporee
+- Mobile Applications for Android & iOS
+- API for Web, Mobile, IOT
+- Chrome Extension
+
