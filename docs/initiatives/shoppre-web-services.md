@@ -10,3 +10,36 @@
 
 - [Shoppre Studio](https://login.shoppre.com/signup?client_id=studio) for developers to develop apps
 - We provide sdk, services for development - Signup for [ShopprePanel](https://login.shoppre.com/signup?client_id=cpanel)
+
+## Resources
+
+- Sample Code
+- Test your app
+- Quality Guidelines
+- Distributes in ShoppRe Business App Store
+
+## Industries
+
+#### E Commerce
+- Domestic 
+
+#### Shipping
+- Indian Domestic
+- International Shipping From India
+
+#### Payments
+- Domestic
+- International Customers Payment to Indian Companies
+
+#### Finance & Accounting
+- GST
+- TDS
+- Payroll
+
+## Guides
+
+- Sample Code
+- Test your app
+- Quality Guidelines
+- Distributes in ShoppRe Business App Store
+
