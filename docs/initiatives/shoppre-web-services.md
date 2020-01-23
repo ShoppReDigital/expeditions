@@ -50,3 +50,12 @@
 - API for Web, Mobile, IOT
 - Chrome Extension
 
+## Latest News
+
+- coming soon
+
+## Latest Videos
+
+- coming soon
+
+
