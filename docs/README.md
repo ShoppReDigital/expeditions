@@ -17,7 +17,7 @@ Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 **Business Definition**:
 
 **Business Model**:
-![Alt Text](http://knexjs.org/assets/images/knex.png)
+![Alt Text](http://cp.shoppre.com/expeditions-assets/shoppre-business-model.png)
 
 
 **Executive Leadership**
