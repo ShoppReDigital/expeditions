@@ -17,6 +17,8 @@ Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 **Business Definition**:
 
 **Business Model**:
+![Alt Text](https://github.com/shoppre/expeditions/blob/master/assets/shoppre.png)
+
 
 **Executive Leadership**
 
