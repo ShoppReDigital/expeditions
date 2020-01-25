@@ -36,6 +36,7 @@ Inspired by [bezosexpeditions.com](https://www.bezosexpeditions.com/)
 - [Shoppre Shipping, Courier & Logistic Solutions](https://www.shopprecouriers.com)
 - [Shoppre Payment Solutions](https://www.shopprepay.in)
 - [Shoppre Web Services](https://expeditions.shoppre.com/initiatives/shoppre-web-services.html)
+- [Shoppre Marketing & Growth Services](https://expeditions.shoppre.com/initiatives/shoppre-marketing-services.html)
 
 ## Goals:
 
